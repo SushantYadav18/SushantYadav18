@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Yadav</h1>
 <h3 align="center">A passionate Android developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=gif%20photos%20for%20program&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprogrammer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&docid=wPNuSPiD_cKq-M&tbnid=I27d9Sp9_gAr5M&vet=12ahUKEwjs-42soMyLAxUOzDgGHZ5nLOYQM3oECFoQAA..i&w=648&h=382&hcb=2&ved=2ahUKEwjs-42soMyLAxUOzDgGHZ5nLOYQM3oECFoQAA">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantyadav18&label=Profile%20views&color=0e75b6&style=flat" alt="sushantyadav18" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=gif%20photos%20for%20program&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprogrammer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&docid=wPNuSPiD_cKq-M&tbnid=I27d9Sp9_gAr5M&vet=12ahUKEwjs-42soMyLAxUOzDgGHZ5nLOYQM3oECFoQAA..i&w=648&h=382&hcb=2&ved=2ahUKEwjs-42soMyLAxUOzDgGHZ5nLOYQM3oECFoQAA" alt="sushantyadav18" /> </p>
 
 - 🌱 I’m currently learning App Devlopment **XMl, Java and Kotlin**
 

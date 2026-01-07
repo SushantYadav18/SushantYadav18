@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
 - 💻 Interested in **Full-Stack Web Development & REST APIs**  
-- 📫 How to reach me **shusant.kumar2bca@gmail.com**  
+- 📫 How to reach me **shusant.kumar2@gmail.com**  
 - ⚡ Fun fact: **Computer programming played a crucial role in ending World War II**
 
 <h3 align="left">Connect with me:</h3>

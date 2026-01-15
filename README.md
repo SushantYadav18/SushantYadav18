@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sushant Yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from Nepal 🇳🇵</h3>
 
-<p align="center">
-  <img src="https://gist.githubusercontent.com/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" alt="sushantyadav18" />
+<p align="center" >
+  <img style="width: 400px; height: 300px; border: 1px ;"
+    src="https://gist.githubusercontent.com/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" alt="sushantyadav18" />
 </p>
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
